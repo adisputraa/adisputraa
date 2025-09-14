@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/adisputraa/adisputraa/blob/main/icons/Hi.gif" width="28px"/>, I'm Adi Setiadi Putra</h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=adisputraa&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-  Android Developer
+  Backend Developer
   <a href="https://adisputraa.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
@@ -12,9 +12,11 @@
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-I am a 3rd year student majoring in informatics engineering at Institut Teknologi PLN with a focus on Android mobile application development. I have honed my skills in Kotlin programming language through various projects that I have worked on.
+I am a fresh graduate in Informatics Engineering from Institut Teknologi PLN, with a strong interest in backend development.  
+I have hands-on experience building REST APIs using **Java Spring Boot** and managing relational databases such as **PostgreSQL**.  
 
-During my studies, I actively develop applications that solve everyday problems and improve user productivity. Currently, I am looking for opportunities to deepen my knowledge and skills through work experience in the mobile application development industry.
+I enjoy designing scalable systems, optimizing performance, and collaborating with teams to build impactful solutions.  
+Currently, I am exploring opportunities as a **Backend Developer** to grow my technical expertise and contribute to real-world projects.
 
 <details>
  <summary>
@@ -26,41 +28,43 @@ During my studies, I actively develop applications that solve everyday problems 
 
  <details>
   <summary><h4> <img align="center" src="https://github.com/adisputraa/adisputraa/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
-  <span><img src="https://img.shields.io/badge/BTECH-PLN Institute of Technology-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/Bachelor of Informatics-PLN Institute of Technology-1877F2?style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/GPA-3.80/4.00-EFEEE9?style=for-the-badge"></span>
  </details>
 
  <details>
   <summary><h4> <img align="center" src="https://github.com/adisputraa/adisputraa/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
 
-- **Mobile Development Student** at Bangkit Academy 2024 (Remote) | Feb 2024 - Jul 2024
+- **Mobile Development Student** at Bangkit Academy 2024 (Remote) | Feb 2024 - Jul 2024  
   - Participated in a program led by Google with support from GoTo, Traveloka, and Deep Tech Foundation.
-  - Completed projects in mobile development using Android.
-  - Improved app performance and user experience through optimized coding practices.
-  - Collaborated with peers and mentors to solve technical challenges.
-  - Enhanced technical skills and knowledge in mobile development.
+  - Built Android applications in Kotlin focusing on user experience and performance optimization.
+  - Collaborated with cross-functional teams to solve real-world problems.
+
+- **Backend Developer (Intern/Project)** | 2024 - 2025  
+  - Developed REST API using Spring Boot with PostgreSQL as the main database.
+  - Implemented authentication, data validation, and reporting features.
+  - Integrated GitLab CI/CD pipeline and collaborated using Jira for task management.
+  - Focused on clean code, scalability, and maintainability of backend services.
  </details>
 
  <details>
   <summary><h4> <img align="center" src="https://github.com/adisputraa/adisputraa/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
 
   #### Languages
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-  #### Libraries/Frameworks
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-  ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) 
-  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+  #### Backend & Databases
+  ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-  #### Tools
-  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+  #### Tools & Others
+  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
   
 </details>
