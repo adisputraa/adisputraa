@@ -2,7 +2,7 @@
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=adisputraa&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Backend Developer
-  <a href="https://adisputraa.github.io/">
+  <a href="https://frabjous-sunflower-8ccdf8.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
 </h2>
