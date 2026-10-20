@@ -71,7 +71,7 @@
 | :------ | :---------- | :---- |
 | [User Management API](https://github.com/adisputraa/user-management) | REST API with Keycloak authentication, role-based access control, and Testcontainers integration tests. | Java · Spring Boot · Keycloak · PostgreSQL · Docker |
 | [PDF Toolkit API](https://github.com/adisputraa/pdf-service-api) | Stateless microservice for PDF manipulation with asynchronous job processing and persistent job tracking. | Node.js · TypeScript · Express · PostgreSQL · Docker |
-| [Portfolio](https://github.com/adisputraa/portfolio-astro-2025) | Bilingual (EN/ID) static portfolio site. Live at [adisetdev.netlify.app](https://adisetdev.netlify.app/). | Astro · TypeScript · CSS |
+| [Portfolio] | Bilingual (EN/ID) static portfolio site. Live at [adisetdev.netlify.app](https://adisetdev.netlify.app/). | Astro · TypeScript · CSS |
 | [Recout](https://github.com/C241-PS139/Recout) | Bangkit Academy 2024 capstone project, built with a cross-functional team. | Kotlin · Android |
 
 ## Education
